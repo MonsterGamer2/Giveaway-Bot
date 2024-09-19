@@ -5,12 +5,9 @@
 
 ## Links
 - ### This Giveaway Bot Was Created by [ZeroSync](https://youtube.com/c/ZeroSync/)
-- [Youtube Channel](https://www.youtube.com/c/ZeroSync)
-- [Support Server Link](https://discord.gg/ARu4hr6hJw)
+- [Youtube Channel](https://youtube.com/@survival_monster?si=hfeHm0ChhGCLjQl_))
+- [Support Server Link](https://discord.com/invite/xyHqgXZ3RT)
 
-## Licensed Under
-### Creative Commons Zero v1.0 Universal
-[View the license here](https://github.com/ZeroDiscord/Giveaway/blob/master/LICENSE)
 #### Copyright 2021 © All Rights are Reserved 
 
 # Contributions
@@ -29,9 +26,6 @@ Please read [code of conduct](.github/CODE_OF_CONDUCT.md) for details on our cod
 # You can run the bot in just a few steps! Let me show you how:
 ## Hosting 
 > ⚠  This bot needs a [Node.js v16.9+](https://nodejs.org/en/blog/release/v16.9.0/)  runtime to function since discord.js version 14 requires said node version to function.
-
-### [Host On Repl.it](https://repl.it/github/ZeroDiscord/Giveaway)
-### [Remix On Glitch](https://glitch.com/edit/#!/import/github/ZeroDiscord/Giveaway)
 
 **Aliter**
 
@@ -56,7 +50,7 @@ npm install
 ```
 
 ### Step 2: Obtain a Bot Token From [Here](https://discord.com/developers) <br> <br>
-### Step 3 : Replace the Token in [config.json](https://github.com/ZeroDiscord/Giveaway/blob/master/config.json) <br>
+### Step 3 : Replace the Token in config.json <br>
 #### That's all! We Are Done! Now Simply host the Bot!
 
 ### Run with node
