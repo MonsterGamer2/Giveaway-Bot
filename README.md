@@ -4,7 +4,7 @@
 ### A Discord Giveaway bot written in Discord.js to create & enjoy Feature rich and Seamless Giveaways within your very own Discord guild!
 
 ## Links
-- ### This Giveaway Bot Was Created by [ZeroSync](https://youtube.com/c/ZeroSync/)
+- ### This Giveaway Bot Was Created by [SurVival_MoNster](https://youtube.com/@survival_monster?si=hfeHm0ChhGCLjQl_)
 - [Youtube Channel](https://youtube.com/@survival_monster?si=hfeHm0ChhGCLjQl_))
 - [Support Server Link](https://discord.com/invite/xyHqgXZ3RT)
 
